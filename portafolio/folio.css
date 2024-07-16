@@ -1,0 +1,86 @@
+html {
+    background: url(imagenes_portafolio/fondo.jpg) no-repeat center fixed;
+    background-size: cover;
+  }
+
+.contenido{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.f{
+height: 300px;
+width: 240px;
+}
+
+.yo{
+    color: aliceblue;
+}
+
+.c{
+    color: aliceblue;
+}
+
+.insta{
+    width: 30px;
+}
+
+.n{
+    color:  rgb(211, 185, 37);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.s{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.galeria{
+    justify-content: center;
+    display: flex;
+}
+
+.goku{
+    width: 300px;
+    height: 200px;
+}
+
+.gustos{
+    color: rgb(246, 250, 250);
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.yang{
+    width: 150px;
+    border-radius: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.yin{
+    width: 150px;
+    border-radius: 90px;
+    justify-content: right;
+}
+
+.por{
+    color: rgb(211, 185, 37);
+    text-align: center;
+}
+
+.sol{
+    width: 80px;
+    height: 80px;
+}
+
+.item{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.l{
+    color: rgb(211, 185, 37);
+}
+
